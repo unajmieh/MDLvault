@@ -2,7 +2,6 @@
 This repository contains a collection of projects developed using Jupyter Notebooks, focusing on testing various machine learning pipelines and neural network models. Some projects also involve a statistical machine learning approach, showcasing the analysis's versatility and depth.
 
 ### Projects
-- BackPropagation-NN
 - Clustering Algorithms
 - DCGAN Model
 - Deep Learning with Bayesian Inference
